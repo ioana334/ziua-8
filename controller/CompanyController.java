@@ -32,4 +32,4 @@ public class CompanyController {
     public List<CompanyResponse> getAll() {
         return companyService.getAll();
     }
-}
+} 
